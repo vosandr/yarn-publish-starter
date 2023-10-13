@@ -4,7 +4,7 @@
     "typescript": "^5.2.2"
   },
   "name": "yarn-publish-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/app.js",
   "types": "./dist/app.d.ts",
   "files": [
