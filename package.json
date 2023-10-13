@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "@types/node": "^20.8.0",
-    "esm": "^3.2.25",
     "tsc": "^2.0.4",
     "typescript": "^5.2.2"
   },
